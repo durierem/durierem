@@ -1,1 +1,1 @@
-whales :whale:
+https://mtg-translator.net
